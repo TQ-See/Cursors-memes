@@ -11,8 +11,8 @@
 | <img src="Ellen-Joe/preview.gif" width="400"> | <img src="Erika-Furudo/preview.gif" width="400"> |
 | Kiana | Ju-Fufu |
 | <img src="Kiana/preview.gif" width="400"> | <img src="Ju-Fufu/preview.gif" width="400"> |
-|  | Erika-Furudo-Alt-Text |
-| <img src="" width="400"> | <img src="Erika-Furudo-Alt-Text/preview.gif" width="400"> |
+| Tumi-Crystal | Erika-Furudo-Alt-Text |
+| <img src="Tumi-Crystal/Tumi's-3D-Crystal-previews/watch.gif" width="80"> | <img src="Erika-Furudo-Alt-Text/preview.gif" width="400"> |
 
 <samp>
   
