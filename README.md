@@ -11,8 +11,12 @@
 | <img src="Ellen-Joe/preview.gif" width="400"> | <img src="Erika-Furudo/preview.gif" width="400"> |
 | Kiana | Ju-Fufu |
 | <img src="Kiana/preview.gif" width="400"> | <img src="Ju-Fufu/preview.gif" width="400"> |
-| Tumi-Crystal | Erika-Furudo-Alt-Text |
-| <img src="Tumi-Crystal/Tumi's-3D-Crystal-previews/watch.gif" width="80"> | <img src="Erika-Furudo-Alt-Text/preview.gif" width="400"> |
+| Tumi's-3D-Crystal | Erika-Furudo-Alt-Text |
+| <img src="Tumi's-3D-Crystal/Tumi's-3D-Crystal-icon.png" width="100"> | <img src="Erika-Furudo-Alt-Text/preview.gif" width="400"> |
+| jyu_chan_Cursor_linux_V2 | Sweet-cursors |
+| <img src="https://github.com/user-attachments/assets/ac2ac0d2-e415-4586-8384-f6c4cab87c64" width="400"> | <img src="https://github.com/user-attachments/assets/a76d7228-0cdb-4e73-9820-f257e5eb8eff" width="400"> |
+| Bibata-Modern-Ice | Skyrim-by-ru5tyshark-cursors |
+| <img src="https://github.com/user-attachments/assets/70852a13-3d68-4fa9-be94-39da4ff49587" width="400"> | <img src="Skyrim-by-ru5tyshark-cursors/Skyrim.cursor.logo.png" width="100"> |
 
 <samp>
   
